@@ -56,7 +56,7 @@ const Credits: React.FC = () => {
   return (
     <div className="fixed-bottom text-light bg-dark border-dark px-3 pt-3 d-flex justify-content-between">
       <p>
-        <a href="http://cosmic-systems.com/discord">Cosmic Systems</a> MDT | Thank you for choosing us!
+        <a href="http://cosmic-systems.com/discord">Cosmic MDT</a>
       </p>
     </div>
   );
