@@ -1,0 +1,34 @@
+# builds
+dist
+build
+.next
+
+# env
+.env
+.env.local
+.env.production
+
+# node modules
+node_modules
+
+# config
+src/config.ts
+
+public/citizen-images/*
+public/bleeter-images/*
+public/mugshots/*
+!public/bleeter-images/.gitkeep
+!public/citizen-images/.gitkeep
+!public/citizen-images/default.svg
+!public/mugshots/.gitkeep
+
+.DS_Store
+
+.eslintcache
+
+.vscode
+
+data.json
+
+.husky/_
+.husky/.gitignore
