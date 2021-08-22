@@ -6,8 +6,8 @@
 
 This is a web based integration for communities who love police roleplaying and dispatching.
 
-<a href="https://discord.gg/eGnrPqEH7U ">
-  <img src="http://invidget.switchblade.xyz/eGnrPqEH7U" />
+<a href="http://cosmic-systems.com/discord/">
+  <img src="https://discordapp.com/api/guilds/670463914324000783/widget.png?style=banner2" alt="">
 </a>
 
 ## Table of contents
@@ -53,4 +53,4 @@ Made with ❤️ and TypeScript!
 
 ## License
 
-[MIT © Dev-CasperTheGhost](./LICENSE)
+[Whitigol Web Design License](./LICENSE)
