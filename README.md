@@ -1,7 +1,5 @@
 # Cosmic MDT
 
-[![Check ESlint](https://github.com/WhitigolProd/cosmic-mdt/actions/workflows/lint.yml/badge.svg)](https://github.com/WhitigolProd/cosmic-mdt/)
-
 💻 A free, fast, and real-time open source Computer Aided Dispatch (CAD) for FiveM.
 
 This is a web based integration for communities who love police roleplaying and dispatching.
