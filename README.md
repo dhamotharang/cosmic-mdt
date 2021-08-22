@@ -25,11 +25,11 @@ This is a web based integration for communities who love police roleplaying and 
 
 ## Installation
 
-**Installation guide has been moved to the [SnailyCAD wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide)**
+**Installation guide has been moved to the [Cosmic MDT wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide)**
 
 ## Troubleshooting
 
-**Troubleshooting guide has been moved to the [SnailyCAD wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/Troubleshooting)**
+**Troubleshooting guide has been moved to the [Cosmic MDT wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/Troubleshooting)**
 
 ## Contributing
 
@@ -37,19 +37,19 @@ This is a web based integration for communities who love police roleplaying and 
 
 ## Bugs
 
-You can report any bug [here](https://github.com/dev-caspertheghost/snaily-cadv3/issues)
+You can report any bug [here](https://github.com/WhitigolProd/cosmic-mdt/issues)
 
 ## Features
 
-**Features list has been moved to the [SnailyCAD wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/%E2%9C%A8-Features)**
+**Features list has been moved to the [Cosmic MDT wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/%E2%9C%A8-Features)**
 
-## Supporting SnailyCAD
+## Supporting Cosmic MDT
 
 All stars/forks are appreciated! ⚡
 
 Feel free to open a pull request with a new feature and issues for fixes!
 
-Made with ❤️ and TypeScript!
+Made with ❤️ and TypeScript, by Whitigol Web Design for Cosmic Systems!
 
 ## License
 
