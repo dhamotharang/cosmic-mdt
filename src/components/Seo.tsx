@@ -14,8 +14,8 @@ export const Seo: React.FC<Props> = (props) => {
   const cad = useSelector((s: State) => s.global.cadInfo);
 
   const defaults: Props = {
-    title: cad?.seo?.title ?? "SnailyCAD",
-    description: cad?.seo?.description ?? "SnailyCAD - Free, fast and open source CAD/MDT",
+    title: cad?.seo?.title ?? "Cosmic MDT",
+    description: cad?.seo?.description ?? "Cosmic MDT - Cosmic System's official MDT System",
     url: cad?.seo?.site_name ?? "",
   };
 
