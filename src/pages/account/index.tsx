@@ -124,7 +124,7 @@ const AccountPage = ({ user, unLinkSteam }: Props) => {
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-secondary text-light col-md-4 me-1"
-            href="https://github.com/Dev-CasperTheGhost/snaily-cadv3/blob/main/docs/CHANGELOG.md"
+            href="https://github.com/WhitigolProd/cosmic-mdt/blob/main/docs/CHANGELOG.md"
           >
             {lang.auth.account.changelog}
           </a>
@@ -132,7 +132,7 @@ const AccountPage = ({ user, unLinkSteam }: Props) => {
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-secondary text-light col-md-4 me-1"
-            href="https://github.com/Dev-CasperTheGhost/snaily-cadv3/issues/new?assignees=&labels=&template=feature_request.md&title="
+            href="https://github.com/WhitigolProd/cosmic-mdt/issues/new?assignees=&labels=&template=feature_request.md&title="
           >
             {lang.auth.account.new_feature}
           </a>
@@ -140,7 +140,7 @@ const AccountPage = ({ user, unLinkSteam }: Props) => {
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-secondary text-light col-md-4"
-            href="https://github.com/Dev-CasperTheGhost/snaily-cadv3/issues/new?assignees=Dev-CasperTheGhost&labels=&template=bug_report.md&title=%5BBug%5D"
+            href="https://github.com/WhitigolProd/cosmic-mdt/issues/new?assignees=WhitigolProd&labels=&template=bug_report.md&title=%5BBug%5D"
           >
             {lang.auth.account.report_a_bug}
           </a>
