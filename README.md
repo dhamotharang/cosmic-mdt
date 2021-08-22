@@ -1,10 +1,6 @@
-# SnailyCADv3
+# Cosmic MDT
 
 [![Check ESlint](https://github.com/WhitigolProd/cosmic-mdt/actions/workflows/lint.yml/badge.svg)](https://github.com/WhitigolProd/cosmic-mdt/)
-![license](https://img.shields.io/github/license/dev-caspertheghost/snaily-cadv3?color=gr&style=flat-square)
-![contributors](https://img.shields.io/github/contributors/dev-caspertheghost/snaily-cadv3?color=gr&style=flat-square)
-![stars](https://img.shields.io/github/stars/dev-caspertheghost/snaily-cadv3?style=flat-square&color=gr)
-![issues](https://img.shields.io/github/issues/dev-caspertheghost/snaily-cadv3?style=flat-square)
 
 💻 A free, fast, and real-time open source Computer Aided Dispatch (CAD) for FiveM.
 
