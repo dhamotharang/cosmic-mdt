@@ -1,6 +1,6 @@
 # SnailyCADv3
 
-[![Check ESlint](https://github.com/Dev-CasperTheGhost/snaily-cadv3/actions/workflows/lint.yml/badge.svg)](https://github.com/Dev-CasperTheGhost/snaily-cadv3/)
+[![Check ESlint](https://github.com/WhitigolProd/cosmic-mdt/actions/workflows/lint.yml/badge.svg)](https://github.com/WhitigolProd/cosmic-mdt/)
 ![license](https://img.shields.io/github/license/dev-caspertheghost/snaily-cadv3?color=gr&style=flat-square)
 ![contributors](https://img.shields.io/github/contributors/dev-caspertheghost/snaily-cadv3?color=gr&style=flat-square)
 ![stars](https://img.shields.io/github/stars/dev-caspertheghost/snaily-cadv3?style=flat-square&color=gr)
@@ -16,12 +16,12 @@ This is a web based integration for communities who love police roleplaying and 
 
 ## Table of contents
 
-- [Installation](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/Installation-Guide)
-  - [Requirements](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/Installation-Guide#requirements)
-  - [Video Guides](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/Installation-Guide#video-guides)
-  - [Written Guides](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/Installation-Guide#written-guides)
-- [Troubleshooting](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/Troubleshooting)
-- [Features](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/%E2%9C%A8-Features)
+- [Installation](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide)
+  - [Requirements](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide#requirements)
+  - [Video Guides](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide#video-guides)
+  - [Written Guides](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide#written-guides)
+- [Troubleshooting](https://github.com/WhitigolProd/cosmic-mdt/wiki/Troubleshooting)
+- [Features](https://github.com/WhitigolProd/cosmic-mdt/wiki/%E2%9C%A8-Features)
 - [Contributing](#contributing)
 - [Changelog](./docs/CHANGELOG.md)
 - [Bugs](#bugs)
@@ -29,11 +29,11 @@ This is a web based integration for communities who love police roleplaying and 
 
 ## Installation
 
-**Installation guide has been moved to the [SnailyCAD wiki](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/Installation-Guide)**
+**Installation guide has been moved to the [SnailyCAD wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide)**
 
 ## Troubleshooting
 
-**Troubleshooting guide has been moved to the [SnailyCAD wiki](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/Troubleshooting)**
+**Troubleshooting guide has been moved to the [SnailyCAD wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/Troubleshooting)**
 
 ## Contributing
 
@@ -45,7 +45,7 @@ You can report any bug [here](https://github.com/dev-caspertheghost/snaily-cadv3
 
 ## Features
 
-**Features list has been moved to the [SnailyCAD wiki](https://github.com/Dev-CasperTheGhost/snaily-cadv3/wiki/%E2%9C%A8-Features)**
+**Features list has been moved to the [SnailyCAD wiki](https://github.com/WhitigolProd/cosmic-mdt/wiki/%E2%9C%A8-Features)**
 
 ## Supporting SnailyCAD
 
