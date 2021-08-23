@@ -10,8 +10,9 @@ This is a web based integration for communities who love police roleplaying and 
 </a>
 
 ## We'll install it!
+
 > **Join** [**Cosmic Systems' Discord Server**](http://cosmic-systems.com/discord) **for more information.**
-## 
+---------------
 
 
 ## Table of contents
