@@ -1,9 +1,10 @@
-node_modules
-build
-public
-src
 .github
-dist
 .next
+dist
+src
+docs
+node_modules
+public
 scripts
+build
 next-env.d.ts
