@@ -9,7 +9,7 @@ This is a web based integration for communities who love police roleplaying and 
   <img src="https://discordapp.com/api/guilds/670463914324000783/widget.png?style=banner2" alt="">
 </a>
 
-## We'll install it!
+## We'll install and host it for you!
 
 > **Join** [**Cosmic Systems' Discord Server**](http://cosmic-systems.com/discord) **for more information.**
 
@@ -17,7 +17,7 @@ This is a web based integration for communities who love police roleplaying and 
 
 ## Table of contents
 
-- [Installation](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide)
+- [Self-Installation](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide)
   - [Requirements](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide#requirements)
   - [Video Guides](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide#video-guides)
   - [Written Guides](https://github.com/WhitigolProd/cosmic-mdt/wiki/Installation-Guide#written-guides)
