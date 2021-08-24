@@ -51,7 +51,7 @@ const CreateBleetModalC: React.FC<Props> = ({ createBleet }) => {
 
           <div className="mb-3">
             <label className="form-label" htmlFor="title">
-              {lang.bleeter.bleet_title}
+              Enter Twot Title
             </label>
             <input
               type="text"
@@ -64,7 +64,7 @@ const CreateBleetModalC: React.FC<Props> = ({ createBleet }) => {
 
           <div className="mb-3">
             <label className="form-label" htmlFor="body">
-              {lang.bleeter.bleet_body}
+              Twot Content
             </label>
             <textarea
               className="form-control bg-secondary border-secondary text-light"
