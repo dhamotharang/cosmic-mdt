@@ -70,7 +70,7 @@ export const paths: Path[] = [
   },
   {
     href: "/bleeter",
-    name: lang.nav.bleeter,
+    name: "Twotter",
     show: () => true,
     enabled: (cad) => cad?.features.includes("bleeter") ?? true,
   },

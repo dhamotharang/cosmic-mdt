@@ -25,10 +25,10 @@ const BleetPage: React.FC<Props> = ({ bleets }) => {
 
   return (
     <Layout>
-      <Seo title={lang.nav.bleeter} />
+      <Seo title="Twotter" />
 
       <div className="pb-3 d-flex justify-content-between">
-        <h3>{lang.nav.bleeter}</h3>
+        <h3>Twotter</h3>
         <button
           className="btn btn-primary"
           data-bs-toggle="modal"
@@ -39,7 +39,7 @@ const BleetPage: React.FC<Props> = ({ bleets }) => {
       </div>
 
       {!bleets[0] ? (
-        <AlertMessage message={{ msg: lang.bleeter.no_bleet, type: "warning" }} />
+        <AlertMessage message={{ msg: "To twots found", type: "warning" }} />
       ) : (
         bleets &&
         bleets.map((bleet: Bleet, idx: number) => {
