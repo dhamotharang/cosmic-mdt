@@ -12,7 +12,6 @@ import { GetServerSideProps } from "next";
 import { initializeStore } from "@state/useStore";
 import { verifyAuth } from "@actions/auth/AuthActions";
 import { getCadInfo } from "@actions/global/GlobalActions";
-import lang from "src/language.json";
 import { Seo } from "@components/Seo";
 import { useOpenModal } from "@hooks/useOpenModal";
 
