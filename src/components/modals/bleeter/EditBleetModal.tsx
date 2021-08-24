@@ -45,7 +45,7 @@ const EditBleetModalC: React.FC<Props> = ({ bleet, updateBleet }) => {
   }
 
   return (
-    <Modal size="lg" title="Edit bleet" id={ModalIds.EditBleet}>
+    <Modal size="lg" title="Edit Twot" id={ModalIds.EditBleet}>
       <form onSubmit={onSubmit}>
         <div className="modal-body">
           <div className="mb-3">
@@ -80,7 +80,7 @@ const EditBleetModalC: React.FC<Props> = ({ bleet, updateBleet }) => {
             {lang.global.cancel}
           </button>
           <button disabled={loading} className="btn btn-success" type="submit">
-            {loading ? `${lang.global.loading}..` : lang.bleeter.update_bleet}
+            {loading ? `${lang.global.loading}..` : "Update Twot"}
           </button>
         </div>
       </form>

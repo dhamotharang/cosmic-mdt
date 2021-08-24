@@ -442,13 +442,10 @@ const AdminPage = ({ user, cadInfo, updateCadSettings }: Props) => {
                 id="bleeter-feature"
               />
               <label className="form-check-label" htmlFor="bleeter-feature">
-                Bleeter
+                Twotter
               </label>
             </div>
-            Bleeter is like twitter but for GTA,{" "}
-            <a href="https://gta.fandom.com/wiki/Bleeter" rel="noreferrer noopener" target="_blank">
-              find more information here
-            </a>
+            Twotter is like twitter but for GTA,{" "}
             .
           </div>
           <div className="mb-3">

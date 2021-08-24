@@ -34,7 +34,7 @@ const CreateBleetModalC: React.FC<Props> = ({ createBleet }) => {
   }
 
   return (
-    <Modal size="lg" title="Create bleet" id={ModalIds.CreateBleet}>
+    <Modal size="lg" title="Create Twot" id={ModalIds.CreateBleet}>
       <form onSubmit={onSubmit}>
         <div className="modal-body">
           <div className="mb-3">
@@ -83,7 +83,7 @@ const CreateBleetModalC: React.FC<Props> = ({ createBleet }) => {
           </button>
 
           <button disabled={loading} className="btn btn-primary ms-2" type="submit">
-            {loading ? `${lang.global.loading}..` : lang.bleeter.create_bleet}
+            {loading ? `${lang.global.loading}..` : "Create Twot"}
           </button>
         </div>
       </form>

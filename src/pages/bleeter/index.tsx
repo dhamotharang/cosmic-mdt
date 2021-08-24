@@ -34,7 +34,7 @@ const BleetPage: React.FC<Props> = ({ bleets }) => {
           data-bs-toggle="modal"
           data-bs-target={`#${ModalIds.CreateBleet}`}
         >
-          {lang.bleeter.create_bleet}
+          {"Create Twot"}
         </button>
       </div>
 
